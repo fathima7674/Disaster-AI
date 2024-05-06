@@ -1,7 +1,7 @@
 # Disaster-AI
 ## Automated Disaster Information Retrieval and Analysis System using BERT and GPT Models
 
-### Sample Example Screen shots
+### Sample Example Output Screen shots
 ![image](https://github.com/fathima7674/Disaster-AI/assets/97104966/39128b7f-9326-42d7-a747-bc18710bcbfd)
 
 ![image](https://github.com/fathima7674/Disaster-AI/assets/97104966/97bfa35e-395e-4b74-96cb-9ee05b794efe)
