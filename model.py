@@ -35,7 +35,7 @@ def text_info(question):
 
     
     GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
-    GOOGLE_API_KEY = 'AIzaSyAUluv7kxv1Fc0hQtd1b_GXfpEDfP-tUNo'
+    GOOGLE_API_KEY = 'Your API KEY'
     genai.configure(api_key=GOOGLE_API_KEY)
  
 
@@ -52,7 +52,7 @@ def text_chat(question):
 
     
     GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
-    GOOGLE_API_KEY = 'AIzaSyAUluv7kxv1Fc0hQtd1b_GXfpEDfP-tUNo'
+    GOOGLE_API_KEY = 'Your API KEY'
     genai.configure(api_key=GOOGLE_API_KEY)
 
 
